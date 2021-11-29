@@ -1,0 +1,15 @@
+
+#title{
+    font-size: 50px;
+    font-family: 'Russo One', sans-serif;
+    
+}
+.counterCol{
+    padding-top: 200px;
+}
+#counter{
+    font-size: 60px;
+}
+.btn:hover{
+    color: white;
+}
